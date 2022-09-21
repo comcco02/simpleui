@@ -14,13 +14,15 @@ Our chosen theme: Food Review
 
 SD - Researching trouble ticket systems and web interfaces 
 
-CM - Setup JSFiddle for code sharing: https://jsfiddle.net/#&togetherjs=FIriEbP4Mz 
+CM - Setup JSFiddle for code sharing: https://jsfiddle.net/#&togetherjs=FIriEbP4Mz, ended up ditching
 
 HS – Created and shared Word Document for Team  
 
-CA –  
+CA – Researching trouble ticket systems and web interfaces 
 
-Created 
+Created Git Hub accounts for full access of project amongst our team
+
+We discussed our theme of the project and our furture changes.
 
  
 
