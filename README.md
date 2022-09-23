@@ -27,7 +27,8 @@ We discussed our theme of the project and then determined that the direction we 
  
 9/23/22 
 Discussed general plan for app:
-*********insert picture**********
+![Image](https://user-images.githubusercontent.com/114101723/192025584-113bc064-d39f-4998-a18f-f071936b8638.png)
+
 - 3 Buttons at the top with food text 
 - once one is clicked, app will show options for critiquing the food
 Categories:
