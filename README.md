@@ -14,7 +14,7 @@ Our chosen theme: Food Review
 
 SD - Researching trouble ticket systems and web interfaces 
 
-CM - Setup JSFiddle for code sharing: https://jsfiddle.net/#&togetherjs=FIriEbP4Mz, ended up ditching
+CM - Established public branch of simpleui for the team's ability to sync and make changes from anywhere, always able to grab and run the latest version. I will be going over the basics of git and how it integrates into VSCode on the 23rd.
 
 HS – Created and shared Word Document for Team  
 
@@ -52,11 +52,3 @@ Context, expanded: We are creating a system that allows a customer to judge/revi
 
  
 Goals, expanded: Create a system that has the customer determine their issue by certain metrics such as temperature, taste, spice, done-ness, appearance, etc. A full list can be created and expanded on at any time, we can use a data structure for it. We should be able to pick an issue on the list and have it highlighted, and have a text box appear down below for comments to be entered. We don't need to handle the long *or* short term storage of the user's input, so design on this will be key. We can also yoink some code from the tic-tac-toe project to get highlighting to apply to our selected object.
-
- 
-
-Research, expanded: Let’s take a look at some options for reviews/basic IO systems and base our result off of that, at least at the start.  
-
- 
-
-Patterns, expanded:  
