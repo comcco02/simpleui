@@ -18,7 +18,7 @@ sync test
 
 SD - Researching trouble ticket systems and web interfaces 
 
-CM - Established public branch of simpleui for the team's ability to sync and make changes from anywhere, always able to grab and run the latest version. I will be going over the basics of git and how it integrates into VSCode on the 23rd. To run the application, you can download node from https://nodejs.org/en/download/. You won't need anything other than a folder to clone the git repo to, which I will also demonstrate. This stuff *looks* intimidating, but overall it's a lifesaver.
+CM - Established public branch of simpleui for the team's ability to sync and make changes from anywhere, always able to grab and run the latest version. I will be going over the basics of git and how it integrates into VSCode on the 23rd. This stuff *looks* intimidating, but overall it's a lifesaver.
 
 HS – Created and shared Word Document for Team  
 
