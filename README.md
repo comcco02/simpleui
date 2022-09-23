@@ -20,7 +20,7 @@ HS – Created and shared Word Document for Team
 
 CA – Researching trouble ticket systems and web interfaces 
 
-Created Github accounts for full access of project amongst our team, inclduing contribution metrics that are available and open to the public. Who does what, etc.
+Created Github accounts for full access of project amongst our team, including contribution metrics that are available and open to the public. Who does what, etc.
 
 We discussed our theme of the project and then determined that the direction we wanted to head in was a sort of food review / feedback system for restaurants (and maybe the gag)
 
