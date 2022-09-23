@@ -36,12 +36,13 @@ We discussed our theme of the project and then determined that the direction we 
  
 
 Things to do  
-Text
-Boxes - this code can be reused and repurposed from the final build of our tic tac toe project - we can use the squares and gussy them up a bit and make it look good, creating the div for all of them in one easy go
+Boxes - this code can be reused and repurposed from the final build of our tic tac toe project - we can use the squares and gussy them up a bit and make it look good, creating the div for all of them in one easy go. If we really want to get fancy we can take a look at using clip art or simplified icons to pick what food item to leave a review on.
 
 Images
 Site Creation and hooks for the HTML section - again, yoink from previous project and rework if needed. We can do that.
+
 CSS goodness - not too much probably needs to be changed, but a color refresh for accessiblity would be nice.
+
 JS work to get everything running properly. - this is the hard part, but we already have headway with our previous material as an example of how to work the very basics of a react web app. We can do this!
 
  
