@@ -1,2 +1,1 @@
-Git: https://git-scm.com/download/ 
-VSCode Github extention: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github 
+VSCode Github extension: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github 
