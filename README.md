@@ -43,7 +43,7 @@ Images? TBD
 
 Site Creation and hooks for the HTML section - again, yoink from previous project and rework if needed. We can do that.
 
-CSS goodness - not too much probably needs to be changed, but a color refresh for accessiblity would be nice.
+CSS goodness - not too much probably needs to be changed, but a color refresh for accessiblity would be nice. Ideally, we implement padding amongst the elements in the main navigation div to make it more accessible to users working on touch-enabled devices like phones and tablets. This also makes selecting the correct option on a regular desktop or laptop machine a lot less of a problem.
 
 JS work to get everything running properly. - this is the hard part, but we already have headway with our previous material as an example of how to work the very basics of a react web app. We can do this!
 
