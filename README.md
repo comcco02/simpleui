@@ -8,12 +8,6 @@ Theme: What theme do we want for this project?
 
 Our chosen theme: Food Review 
 
-this is also a sync test
-
-
-sync test
- 
-
 9/21/22 
 
 SD - Researching trouble ticket systems and web interfaces 
@@ -35,11 +29,7 @@ We discussed our theme of the project and then determined that the direction we 
 
 9/25/22 
 
- 
-
- 
-
-Things to do  
+ Things to do  
 Boxes - this code can be reused and repurposed from the final build of our tic tac toe project - we can use the squares and gussy them up a bit and make it look good, creating the div for all of them in one easy go. If we really want to get fancy we can take a look at using clip art or simplified icons to pick what food item to leave a review on.
 
 Images? TBD
@@ -56,3 +46,17 @@ Context, expanded: We are creating a system that allows a customer to judge/revi
 
  
 Goals, expanded: Create a system that has the customer determine their issue by certain metrics such as temperature, taste, spice, done-ness, appearance, etc. A full list can be created and expanded on at any time, we can use a data structure for it. We should be able to pick an issue on the list and have it highlighted, and have a text box appear down below for comments to be entered. We don't need to handle the long *or* short term storage of the user's input, so design on this will be key. We can also yoink some code from the tic-tac-toe project to get highlighting to apply to our selected object.
+
+
+Spooky test area for merge conflict rundown. Don't fear!
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
