@@ -31,6 +31,7 @@ Discussed general plan for app:
 
 - 3 Buttons at the top with food text 
 - Once one is clicked, app will show options for critiquing the food
+
 Categories:
 - What went wrong (drop down that haves options: too hot/cold, not what you ordered, other)
 - If you chose 'Other', describe what went wrong(text box)
