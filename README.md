@@ -25,9 +25,23 @@ We discussed our theme of the project and then determined that the direction we 
  
 9/23/22 
 
- 
+SD -
+
+CM -
+
+CA -
+
+HS - 
 
 9/25/22 
+
+SD -
+
+CM -
+
+CA -
+
+HS -
 
  Things to do  
 Boxes - this code can be reused and repurposed from the final build of our tic tac toe project - we can use the squares and gussy them up a bit and make it look good, creating the div for all of them in one easy go. If we really want to get fancy we can take a look at using clip art or simplified icons to pick what food item to leave a review on.
