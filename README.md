@@ -7,6 +7,8 @@ Team Leader: Colton
 Theme: What theme do we want for this project? 
 
 Our chosen theme: Food Review - ConveyUr Cuisine...???
+- App is for complaing about your food (because robots arent good cooks :P)
+- Assuming that there is something wrong with the food after you get it
 
 9/21/22 
 
@@ -24,6 +26,15 @@ We discussed our theme of the project and then determined that the direction we 
 
  
 9/23/22 
+Discussed general plan for app:
+*********insert picture**********
+- 3 Buttons at the top with food text 
+- once one is clicked, app will show options for critiquing the food
+Categories:
+- what went wrong (drop down that haves options: too hot/cold, not what you ordered, other)
+- if you chose 'Other', describe what went wrong(text box)
+- Submit button
+  - color change--console log "Critique submitted!"
 
 SD -
 
