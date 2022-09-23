@@ -30,12 +30,12 @@ Discussed general plan for app:
 ![Image](https://user-images.githubusercontent.com/114101723/192025584-113bc064-d39f-4998-a18f-f071936b8638.png)
 
 - 3 Buttons at the top with food text 
-- once one is clicked, app will show options for critiquing the food
+- Once one is clicked, app will show options for critiquing the food
 Categories:
-- what went wrong (drop down that haves options: too hot/cold, not what you ordered, other)
-- if you chose 'Other', describe what went wrong(text box)
+- What went wrong (drop down that haves options: too hot/cold, not what you ordered, other)
+- If you chose 'Other', describe what went wrong(text box)
 - Submit button
-  - color change--console log "Critique submitted!"
+  - Color change--console log "Critique submitted!"
 
 SD -
 
@@ -60,7 +60,8 @@ HS -
 ZP -
 
 Things to do  
-Boxes - this code can be reused and repurposed from the final build of our tic tac toe project - we can use the squares and gussy them up a bit and make it look good, creating the div for all of them in one easy go. If we really want to get fancy we can take a look at using clip art or simplified icons to pick what food item to leave a review on.
+Boxes - this code can be reused and repurposed from the final build of our tic tac toe project - we can use the squares and gussy them up a bit and make it look good, creating the div for all of them in one easy go. 
+ - If we really want to get fancy we can take a look at using clip art or simplified icons to pick what food item to leave a review on.
 
 Images and Colors? TBD, after all code functions properly
 
