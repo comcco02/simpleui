@@ -41,25 +41,15 @@ Categories:
 - Submit button
   - Color change--console log "Critique submitted!"
 
-SD -
+9/26/22 
 
-CM -
+SD - Enable the submit button to be clicked once text is entered
 
-CA -
+CM - SICK
 
-HS - 
+CA - Made text box 
 
-ZP -
-
-9/25/22 
-
-SD -
-
-CM -
-
-CA -
-
-HS -
+HS - Created drop down options
 
 ZP -
 
