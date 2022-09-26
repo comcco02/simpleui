@@ -6,7 +6,7 @@ Team Leader: Colton
 
 Theme: What theme do we want for this project? 
 
-Our chosen theme: Food Review - ConveyUr Cuisine...???
+Our chosen theme: Food Review - ConveyUr Cuisine
 - App is for complaing about your food (because robots arent good cooks :P)
 - Assuming that there is something wrong with the food after you get it
 
