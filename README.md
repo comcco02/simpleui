@@ -4,6 +4,7 @@ Team Leader: Colton
 
  
 https://stackoverflow.com/questions/36619401/how-to-add-textbox-value-to-dropdown-list
+https://www.aspsnippets.com/Articles/JavaScript-Enable-Button-when-text-is-entered-in-TextBox.aspx
 
 Theme: What theme do we want for this project? 
 
