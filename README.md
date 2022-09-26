@@ -51,7 +51,7 @@ CA - Made text box
 
 HS - Created drop down options
 
-ZP -
+ZP - Created the three options for food
 
 Things to do  
 Boxes - this code can be reused and repurposed from the final build of our tic tac toe project - we can use the squares and gussy them up a bit and make it look good, creating the div for all of them in one easy go. 
