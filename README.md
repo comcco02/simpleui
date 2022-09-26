@@ -1,6 +1,7 @@
 # simpleui
 Human Computer Interaction
-Team Leader: Colton Colton -  *if you see this, we are working on generating three seperate buttons with text on them*
+Team Leader: Colton 
+Colton -  *if you see this, we are working on generating three seperate buttons with text on them* ...---... (sos)
 
  
 https://stackoverflow.com/questions/36619401/how-to-add-textbox-value-to-dropdown-list
