@@ -49,6 +49,8 @@ SD - Enable the submit button to be clicked once text is entered
 CM - SICK
 
 CA - Made text box 
+-tried getting getting things setup in react but not getting anything to display
+(will work on tomorrow till i get it to work (and I'll update the files on here too)
 
 HS - Created drop down options
 
