@@ -3,6 +3,9 @@ Human Computer Interaction
 Team Leader: Colton 
 Colton -  *if you see this, we are working on generating three seperate buttons with text on them* ...---... (sos)
 
+CA (will delete this)
+-tried getting code (from below websites) to work--not getting anything to display
+(will try again tomorrow (and I'll update the files on here too when I can actually display something))
  
 https://stackoverflow.com/questions/36619401/how-to-add-textbox-value-to-dropdown-list
 
@@ -49,8 +52,6 @@ SD - Enable the submit button to be clicked once text is entered
 CM - SICK
 
 CA - Made text box 
--tried getting getting things setup in react but not getting anything to display
-(will work on tomorrow till i get it to work (and I'll update the files on here too)
 
 HS - Created drop down options
 
