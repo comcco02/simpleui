@@ -16,13 +16,16 @@ Our chosen theme: Food Review - ConveyUr Cuisine
 
 9/21/22 
 
-SD - Researching trouble ticket systems and web interfaces 
+CA – Researching trouble ticket systems and web interfaces 
 
 CM - Established public branch of simpleui for the team's ability to sync and make changes from anywhere, always able to grab and run the latest version. I will be going over the basics of git and how it integrates into VSCode on the 23rd. This stuff *looks* intimidating, but overall it's a lifesaver.
 
-HS – Created and shared Word Document for Team  
+HS – Created and shared Word Document for Team
+Emailed Zack about group project   
 
-CA – Researching trouble ticket systems and web interfaces 
+SD - Researching trouble ticket systems and web interfaces 
+
+ZP - Not in class
 
 Created Github accounts for full access of project amongst our team, including contribution metrics that are available and open to the public. Who does what, etc.
 
@@ -44,17 +47,42 @@ Categories:
 
 9/26/22 
 
-SD - Enable the submit button to be clicked once text is entered
+CA - Made text box for comments and critques for robot restaurant
 
 CM - SICK
 
-CA - Made text box 
+CA - Made text box for comments and critques for robot restaurant
 
 HS - Created drop down options
+
+SD - Enable the submit button to be clicked once text is entered
 
 ZP - Created the three options for food
 
 9/28/22
+
+CA - Connected to Git Hub
+Uploded code to the workspace
+
+CM - Taught Caroline, Hailey, and Seth how to connect to Git Hub
+
+HS - Connected to Git Hub
+
+SD - Connected to Git Hub
+
+ZP - 
+
+9/30/22
+
+CA - 
+
+CM - 
+
+HS - 
+
+SD - 
+
+ZP - 
 
 Things to do  
 Boxes - this code can be reused and repurposed from the final build of our tic tac toe project - we can use the squares and gussy them up a bit and make it look good, creating the div for all of them in one easy go. 
