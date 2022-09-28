@@ -76,6 +76,7 @@ return (
 <div>
 <div className="board-row">
 {this.renderSquare(1)}
+&nbsp;
 {this.renderSquare(2)}
 {this.renderSquare(3)}
 </div>
@@ -196,7 +197,7 @@ return squares[a];
 }
 return null;
 
-function MyForm() {
+function DescriptionTB() {
   const [textarea, setTextarea] = useState(
     "The content of a textarea goes in the value attribute"
   );
