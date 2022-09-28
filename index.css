@@ -11,6 +11,7 @@ ol, ul {
   clear: both;
   content: "";
   display: table;
+  padding: 10px;
 }
 
 .status {
@@ -32,7 +33,8 @@ ol, ul {
   width: 34px;
 }
 
-/* Dropdown button on hover & focus */
+/* Dropdown button on hover & focus
+need to add padding and text to each square */
 .square:focus, .square:hover {
   outline: none;
   background-color: #e0dd2b;

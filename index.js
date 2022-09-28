@@ -75,9 +75,9 @@ status = 'Next player: ' + (this.state.xIsNext ? 'X' : 'O');
 return (
 <div>
 <div className="board-row">
-{this.renderSquare(0)}
 {this.renderSquare(1)}
 {this.renderSquare(2)}
+{this.renderSquare(3)}
 </div>
 </div>
 );
