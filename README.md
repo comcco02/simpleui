@@ -2,9 +2,7 @@
 Human Computer Interaction
 Team Leader: Colton 
 
-[CA (will delete this)
--tried getting code (from below websites) to work--not getting anything to display
-(will try again tomorrow (and I'll update the files on here too when I can actually display something))](https://www.w3schools.com/react/showreact.asp?filename=demo2_react_forms_textarea)
+https://www.w3schools.com/react/showreact.asp?filename=demo2_react_forms_textarea
  
 https://stackoverflow.com/questions/36619401/how-to-add-textbox-value-to-dropdown-list
 
