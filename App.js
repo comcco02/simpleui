@@ -22,8 +22,12 @@ function App() {
 }
 
 export default App;
+<<<<<<< HEAD
 //Yo!
 
 
 
 ///Yo! pt 2
+=======
+//Yo! //test merge
+>>>>>>> 9055773040d3e47819741695d1081832f1a4c368

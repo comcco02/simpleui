@@ -3,11 +3,15 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import { useState } from "react"; // description - text box
 
-/*As a team - modify our TicTacToe Code to incorporate the following:
-Rewrite Board to use two loops to make the squares instead of hardcoding them.
-Add a toggle button that lets you sort the moves in either ascending or descending order.
-When someone wins, highlight the three squares that caused the win.
-When no one wins, display a message about the result being a draw.
+/*As a team - modify our code to incorporate the following:
+Create a system that has the customer determine their issue by certain
+metrics such as temperature, taste, spice, done-ness, appearance, etc.
+A full list can be created and expanded on at any time, we can use a data
+structure for it. We should be able to pick an issue on the list and have
+it highlighted, and have a text box appear down below for comments to be
+entered. We don't need to handle the long or short term storage of the
+user's input, so design on this will be key. We can also yoink some code
+from the tic-tac-toe project to get highlighting to apply to our selected object.
 */
 
 /*class Square extends React.Component {
