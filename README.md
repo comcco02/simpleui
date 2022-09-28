@@ -1,7 +1,6 @@
 # simpleui
 Human Computer Interaction
 Team Leader: Colton 
-Colton -  *if you see this, we are working on generating three seperate buttons with text on them* ...---... (sos)
 
 CA (will delete this)
 -tried getting code (from below websites) to work--not getting anything to display
