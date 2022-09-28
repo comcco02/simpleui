@@ -3,15 +3,11 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import { useState } from "react"; // description - text box
 
-/*As a team - modify our code to incorporate the following:
-Create a system that has the customer determine their issue by certain
-metrics such as temperature, taste, spice, done-ness, appearance, etc.
-A full list can be created and expanded on at any time, we can use a data
-structure for it. We should be able to pick an issue on the list and have
-it highlighted, and have a text box appear down below for comments to be
-entered. We don't need to handle the long or short term storage of the
-user's input, so design on this will be key. We can also yoink some code
-from the tic-tac-toe project to get highlighting to apply to our selected object.
+/*As a team - modify our TicTacToe Code to incorporate the following:
+Rewrite Board to use two loops to make the squares instead of hardcoding them.
+Add a toggle button that lets you sort the moves in either ascending or descending order.
+When someone wins, highlight the three squares that caused the win.
+When no one wins, display a message about the result being a draw.
 */
 
 /*class Square extends React.Component {
@@ -79,9 +75,9 @@ status = 'Next player: ' + (this.state.xIsNext ? 'X' : 'O');
 return (
 <div>
 <div className="board-row">
-{this.renderSquare(0)}
 {this.renderSquare(1)}
 {this.renderSquare(2)}
+{this.renderSquare(3)}
 </div>
 </div>
 );
@@ -92,12 +88,13 @@ constructor(props){
 super(props)
 this.state = {
 history:[{
-squares: Array(9).fill(null),
+squares: Array(2).fill(null),
 }],
 stepNumber: 0,
 xIsNext: true,
 }
 }
+
 handleClick(i) {
 //const squares = this.state.squares.slice();
 const history = this.state.history.slice(0, this.state.stepNumber + 
@@ -158,6 +155,27 @@ onClick={(i) => this.handleClick(i)}
 )
 }
 }
+
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown menu if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.square')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+
 function calculateWinner(squares){
 const lines =[
 [0,1,2],
