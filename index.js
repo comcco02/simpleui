@@ -196,7 +196,13 @@ return squares[a];
 }
 return null;
 
+<<<<<<< HEAD
 function MyForm() {
+=======
+}
+
+function DescriptionTB() {
+>>>>>>> ed9aef9dd87a6f228b76e3fbc91900fc0715b33e
   const [textarea, setTextarea] = useState(
     "The content of a textarea goes in the value attribute"
   );
@@ -210,8 +216,6 @@ function MyForm() {
       <textarea value={textarea} onChange={handleChange} />
     </form>
   )
-}
-
 }
 
 // ========================================
