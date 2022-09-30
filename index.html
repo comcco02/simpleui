@@ -7,15 +7,39 @@
   white-space: pre-wrap;
 "></div>
 <div id="root"></div>
-<div list="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+
+<div class="dropdown">
+  <button onclick="myFunction()" class="square">Pizza</button>
   <div id="myDropdown" class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
+    <a href="#temperature">Temperature</a>
+    <a href="#appearance">Appearance</a>
+    <a href="#taste">Taste</a>
+    <a href="#other">Other</a>
   </div>
 </div>
+
 <script>
+
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.square')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+
 window.addEventListener('mousedown', function(e) {
   document.body.classList.add('mouse-navigation');
   document.body.classList.remove('kbd-navigation');
