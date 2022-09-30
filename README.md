@@ -2,11 +2,38 @@
 Human Computer Interaction
 Team Leader: Colton 
 
+All, I've been given instructions to lay low and rest, and to not do a repeat of Wednesday and strain my head and my eyes. Off the top of my head, I did do a few searches to narrow down what I remember being the most pressing issues on Wednesday:
+
+hiding / showing dropdown element after selection: 
+
+https://stackoverflow.com/questions/24502898/show-or-hide-element-in-react - may have best luck with ternary example
+
+spacing out elements within a div using CSS and use of a class identifier - BOXES come to mind
+
+https://www.geeksforgeeks.org/css-margins-padding/
+
+other than that I think seth has dug up some good resources on some of the rest of the issues we were having. Nice!
+
+ZP - I don't remember exactly what you were working on, but if you had claimed something, go for it. Otherwise if you could help the others out with any issues with Github or with their own piece, that would be amazing. 
+
+As for me, I'm slated to return on 10/3, which is Monday. Not ideal, but it is what it is. I'm likely going to be testing things out and trying to catch up on Sunday, so please document what we need to wrap up and I'll do my best to finish it, it's only fair.
+
+thanks
+
+
+OTHER LINKS - 
+
 https://www.w3schools.com/react/showreact.asp?filename=demo2_react_forms_textarea
  
 https://stackoverflow.com/questions/36619401/how-to-add-textbox-value-to-dropdown-list
 
 https://www.aspsnippets.com/Articles/JavaScript-Enable-Button-when-text-is-entered-in-TextBox.aspx
+
+https://www.w3schools.com/howto/howto_css_text_buttons.asp
+
+https://www.w3schools.com/howto/howto_js_dropdown.asp
+
+https://www.youtube.com/watch?v=vKlq91Avgq8
 
 Theme: What theme do we want for this project? 
 
@@ -16,13 +43,16 @@ Our chosen theme: Food Review - ConveyUr Cuisine
 
 9/21/22 
 
-SD - Researching trouble ticket systems and web interfaces 
+CA – Researching trouble ticket systems and web interfaces 
 
 CM - Established public branch of simpleui for the team's ability to sync and make changes from anywhere, always able to grab and run the latest version. I will be going over the basics of git and how it integrates into VSCode on the 23rd. This stuff *looks* intimidating, but overall it's a lifesaver.
 
-HS – Created and shared Word Document for Team  
+HS – Created and shared Word Document for Team
+Emailed Zack about group project   
 
-CA – Researching trouble ticket systems and web interfaces 
+SD - Researching trouble ticket systems and web interfaces 
+
+ZP - Not in class
 
 Created Github accounts for full access of project amongst our team, including contribution metrics that are available and open to the public. Who does what, etc.
 
@@ -44,17 +74,42 @@ Categories:
 
 9/26/22 
 
-SD - Enable the submit button to be clicked once text is entered
+CA - Made text box for comments and critques for robot restaurant
 
 CM - SICK
 
-CA - Made text box 
+CA - Made text box for comments and critques for robot restaurant
 
 HS - Created drop down options
+
+SD - Enable the submit button to be clicked once text is entered
 
 ZP - Created the three options for food
 
 9/28/22
+
+CA - Connected to Git Hub
+Uploded code to the workspace
+
+CM - Taught Caroline, Hailey, and Seth how to connect to Git Hub
+
+HS - Connected to Git Hub
+
+SD - Connected to Git Hub
+
+ZP - 
+
+9/30/22
+
+CA - 
+
+CM - 
+
+HS - 
+
+SD - 
+
+ZP - 
 
 Things to do  
 Boxes - this code can be reused and repurposed from the final build of our tic tac toe project - we can use the squares and gussy them up a bit and make it look good, creating the div for all of them in one easy go. 

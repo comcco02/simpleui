@@ -27,12 +27,13 @@ ol, ul {
   height: 34px;
   margin-right: -1px;
   margin-top: -1px;
-  padding: 0;
+  padding: 10;
   text-align: center;
   width: 34px;
 }
 
-/* Dropdown button on hover & focus */
+/* Dropdown button on hover & focus
+need to add padding and text to each square */
 .square:focus, .square:hover {
   outline: none;
   background-color: #e0dd2b;
