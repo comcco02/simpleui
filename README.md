@@ -2,6 +2,27 @@
 Human Computer Interaction
 Team Leader: Colton 
 
+All, I've been given instructions to lay low and rest, and to not do a repeat of Wednesday and strain my head and my eyes. Off the top of my head, I did do a few searches to narrow down what I remember being the most pressing issues on Wednesday:
+
+hiding / showing dropdown element after selection: 
+
+https://stackoverflow.com/questions/24502898/show-or-hide-element-in-react - may have best luck with ternary example
+
+spacing out elements within a div using CSS and use of a class identifier - BOXES come to mind
+
+https://www.geeksforgeeks.org/css-margins-padding/
+
+other than that I think seth has dug up some good resources on some of the rest of the issues we were having. Nice!
+
+ZP - I don't remember exactly what you were working on, but if you had claimed something, go for it. Otherwise if you could help the others out with any issues with Github or with their own piece, that would be amazing. 
+
+As for me, I'm slated to return on 10/3, which is Monday. Not ideal, but it is what it is. I'm likely going to be testing things out and trying to catch up on Sunday, so please document what we need to wrap up and I'll do my best to finish it, it's only fair.
+
+thanks
+
+
+OTHER LINKS - 
+
 https://www.w3schools.com/react/showreact.asp?filename=demo2_react_forms_textarea
  
 https://stackoverflow.com/questions/36619401/how-to-add-textbox-value-to-dropdown-list
