@@ -18,7 +18,7 @@ function App() {
     <br></br>
     Please tell us what was wrong or what we could do to improve.<br></br>
     &nbsp;<input type="text" /><br></br>
-    <button>Submit Feedback</button>
+    <button>Submit Feedback</button>    
     
     </>
   );
