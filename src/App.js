@@ -11,7 +11,7 @@ function App() {
     <br></br>
     &nbsp; Is your issue with....
     <br></br>
-    <button class="mid">Doneness?</button><br></br>
+    <button class="mid">Quality?</button><br></br>
     <button class="mid">Ingredients?</button><br></br>
     <button class="mid">Temperature?</button><br></br>
     <button class="mid">Appearance?</button><br></br>
