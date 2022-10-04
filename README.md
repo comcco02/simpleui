@@ -2,6 +2,7 @@
 Human Computer Interaction
 Team Leader: Colton 
 
+
 All, I've been given instructions to lay low and rest, and to not do a repeat of Wednesday and strain my head and my eyes. Off the top of my head, I did do a few searches to narrow down what I remember being the most pressing issues on Wednesday:
 
 hiding / showing dropdown element after selection: 
