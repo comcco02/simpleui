@@ -3,6 +3,7 @@ Human Computer Interaction
 Team Leader: Colton 
 
 CA 10/4/22 -- figured out show/hide of questions after food is clicked and console message when Submit is clicked
+
 To-Dos: 
 - still need to get dropdowns to work or keep the buttons? (idk)
 - do more than the console message when Submit is clicked?? (like maybe a pop-up or something displays on the webpage?)
