@@ -10,7 +10,7 @@ function App() {
   }
   const Questions = () => (
     <div>
-      &nbsp; Is your issue with....
+      &nbsp; <p>Is your issue with....</p>
       
       <button class="mid">Quality?</button><br></br>
       <button class="mid">Ingredients?</button><br></br>
@@ -23,7 +23,7 @@ function App() {
     <>
       <h1>Welcome to Totally Not the Gag!</h1>
       <h2>Your Feedback goes directly to our chefs.</h2>
-      What did you order?<br></br>
+      <p>What did you order?</p><br></br>
       <button class="top" onClick={onClick}>🍕 Pizza</button>
       <button class="top" onClick={onClick}>🍟 Fries</button>
       <button class="top" onClick={onClick}>🌭 Hot Dog</button>
@@ -33,7 +33,7 @@ function App() {
 
       {/* submit button displays console message saying feedback is "submitted"
       --we aren't storing it anywhere :P*/}
-      Please tell us what was wrong or what we could do to improve.<br></br>
+      <p>Please tell us what was wrong or what we could do to improve.</p><br></br>
       &nbsp;<input type="text" /><br></br>
       <button onClick={() => console.log("Feedback Submitted.")}>Submit Feedback</button>
 
