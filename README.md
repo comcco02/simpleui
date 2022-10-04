@@ -7,6 +7,7 @@ All, I've been given instructions to lay low and rest, and to not do a repeat of
 hiding / showing dropdown element after selection: 
 
 https://stackoverflow.com/questions/24502898/show-or-hide-element-in-react - may have best luck with ternary example
+https://bobbyhadz.com/blog/react-toggle-boolean-state - helped toggle showing/hiding
 
 spacing out elements within a div using CSS and use of a class identifier - BOXES come to mind
 
