@@ -3,8 +3,34 @@ Human Computer Interaction
 Team Leader: Colton 
 
 To-Dos: 
-- still need to get dropdowns to work or keep the buttons? (idk)
-- do more than the console message when Submit is clicked?? (like maybe a pop-up or something displays on the webpage?)
+- still need to get dropdowns to work or keep the buttons? (idk - was my code helpful in solving this issue? - SD)
+- do more than the console message when Submit is clicked?? (like maybe a pop-up or something displays on the webpage?) [LOOK BELOW]
+
+<html>
+<body>
+
+<h2>Submit Button</h2>
+
+
+<button onclick="myFunction()">Submit</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var txt;
+  if (confirm("Please select an option!")) {
+    txt = "Submission successful!";
+  } else {
+    txt = "Need more time?";
+  }
+  document.getElementById("demo").innerHTML = txt;
+}
+</script>
+
+</body>
+</html>
+
 
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/77684974/193926761-29954bf6-c9af-4b42-b3f7-5a383ebf8bd3.png">
 
