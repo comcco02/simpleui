@@ -36,17 +36,17 @@ function App() {
   const Input = () => (
     <div>
       {/* submit button fires alert message saying feedback is "submitted"*/}
-      <p>Please tell us what was wrong or what we could do to improve.</p><br></br>
-      <input class="inputbox" type="text" /><br></br><br></br>
-      <button onClick={() => alert("Feedback Submitted.")}>Submit Feedback</button>
+      <p>Please describe your issue below:</p><br></br>
+      <textarea class="inputbox" type="text" rows="4" cols="50"/><br></br><br></br>
+      <button class="submitBtn" onClick={() => alert("Submission successful, hope to see you again soon!")}>Submit</button>
     </div>
   );
 
   return (
     <>
       <h1>ConveyUr Cuisine</h1>
-      <h2>Your Feedback goes directly to our chefs.</h2>
-      <p>What did you order?</p><br></br>
+      <h2>Hello, your feedback goes directly to our chefs 👨‍🍳.</h2>
+      <p>Please click on the food you ordered.</p><br></br>
       <button class="top" onClick={onClick}>🍕 Pizza</button>
       <button class="top" onClick={onClick}>🍟 Fries</button>
       <button class="top" onClick={onClick}>🌭 Hot Dog</button>

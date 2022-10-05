@@ -1,8 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: Comic Sans MS, Comic Sans, cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: lightblue;
@@ -11,8 +9,7 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: Comic Sans MS, Comic Sans, cursive;
 }
 
 .top {
@@ -39,10 +36,17 @@ code {
   cursor: pointer;
 }
 
-.mid:active {
-  background: gray;
+.submitBtn {
+  background-color: gold;
+  color: black;
+  font-size: 20px;
+  padding: 10px 30px;
+  border-radius: 5px;
+  margin: 10px 10px;
+  cursor: pointer;
 }
 
-.inputbox {
-  text-align: center;
+/* Dropdown button on hover and focus */
+.mid:hover, .mid:focus {
+  background-color: #b366d1;
 }
