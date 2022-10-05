@@ -46,3 +46,7 @@ p {
 .mid:active {
   background: gray;
 }
+
+.inputbox {
+  text-align: center;
+}
