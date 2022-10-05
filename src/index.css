@@ -6,17 +6,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: lightblue;
-  text-align: center;
+  text-align: left;
+  padding-left: 30px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-
-p {
-  text-align: left;
-  padding-left: 30px;
 }
 
 .top {
