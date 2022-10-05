@@ -43,7 +43,7 @@ function App() {
       --we aren't storing it anywhere :P*/}
       <p>Please tell us what was wrong or what we could do to improve.</p><br></br>
       <input class="inputbox" type="text" /><br></br>
-      <button onClick={() => console.log("Feedback Submitted.")}>Submit Feedback</button>
+      <button onClick={() => alert("Feedback Submitted.")}>Submit Feedback</button>
     </div>
   );
 
