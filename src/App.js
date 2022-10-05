@@ -12,8 +12,8 @@ function App() {
     <div>
       &nbsp; <p>Is your issue with....</p>
       
-      <button class="mid">Quality?</button><br></br>
-      <button class="mid">Ingredients?</button><br></br>
+      <button class="mid">Taste?</button><br></br>
+      <button class="mid">Incorrect Order?</button><br></br>
       <button class="mid">Temperature?</button><br></br>
       <button class="mid">Appearance?</button><br></br>
     </div>
