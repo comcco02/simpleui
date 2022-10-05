@@ -2,8 +2,6 @@
 Human Computer Interaction
 Team Leader: Colton 
 
-CA 10/4/22 -- figured out show/hide of questions after food is clicked and console message when Submit is clicked
-
 To-Dos: 
 - still need to get dropdowns to work or keep the buttons? (idk)
 - do more than the console message when Submit is clicked?? (like maybe a pop-up or something displays on the webpage?)
@@ -48,7 +46,7 @@ https://www.youtube.com/watch?v=vKlq91Avgq8
 Theme: What theme do we want for this project? 
 
 Our chosen theme: Food Review - ConveyUr Cuisine
-- App is for complaing about your food (because robots arent good cooks :P)
+- App is for complaining about your food (because robots aren't good cooks :P)
 - Assuming that there is something wrong with the food after you get it
 
 9/21/22 
@@ -67,7 +65,6 @@ ZP - Not in class
 Created Github accounts for full access of project amongst our team, including contribution metrics that are available and open to the public. Who does what, etc.
 
 We discussed our theme of the project and then determined that the direction we wanted to head in was a sort of food review / feedback system for restaurants (and maybe the gag)
-
  
 9/23/22 
 Discussed general plan for app:
@@ -77,7 +74,7 @@ Discussed general plan for app:
 - Once one is clicked, app will show options for critiquing the food
 
 Categories:
-- What went wrong (drop down that haves options: too hot/cold, not what you ordered, other)
+- What went wrong (drop down that haves options: too hot/cold (temperature), not what you ordered, appearance, taste, other)
 - If you chose 'Other', describe what went wrong(text box)
 - Submit button
   - Color change--console log "Critique submitted!"
@@ -92,7 +89,7 @@ CA - Made text box for comments and critques for robot restaurant
 
 HS - Created drop down options
 
-SD - Enable the submit button to be clicked once text is entered
+SD - Researched and tested code on how to enable the submit button to be clicked once text is entered
 
 ZP - Created the three options for food
 
@@ -107,19 +104,19 @@ HS - Connected to Git Hub
 
 SD - Connected to Git Hub
 
-ZP - 
+10/03/22
 
-9/30/22
+Other group presentations
 
-CA - 
+CA, HS, and SD were not present due to business trip.
 
 CM - 
 
-HS - 
-
-SD - 
-
 ZP - 
+
+10/4/22 
+
+CA - figured out show/hide of questions after food is clicked and console message when Submit is clicked
 
 Things to do  
 Boxes - this code can be reused and repurposed from the final build of our tic tac toe project - we can use the squares and gussy them up a bit and make it look good, creating the div for all of them in one easy go. 
@@ -135,7 +132,7 @@ JS work to get everything running properly. - this is the hard part, but we alre
 
 Context, expanded: We are creating a system that allows a customer to judge/review their food and leave a ticket to the cooks about what went wrong, what could be improved on, and what they thought about the meal. This system ideally would run on a tablet or similar device running alone at a table and reporting results back to the owners, but this is a web app, which means we can expect it to run on almost anything. With that in mind, I feel like a simple UI with basic building blocks and set options laid out graphically to be the best choice. 
 
-Goals, expanded: Create a system that has the customer determine their issue by certain metrics such as temperature, taste, spice, done-ness, appearance, etc. A full list can be created and expanded on at any time, we can use a data structure for it. We should be able to pick an issue on the list and have it highlighted, and have a text box appear down below for comments to be entered. We don't need to handle the long *or* short term storage of the user's input, so design on this will be key. We can also yoink some code from the tic-tac-toe project to get highlighting to apply to our selected object.
+Goals, expanded: Create a system that has the customer determine their issue by certain metrics such as temperature, taste, appearance, incorrect order, etc. A full list can be created and expanded on at any time, we can use a data structure for it. We should be able to pick an issue on the list and have it highlighted, and have a text box appear down below for comments to be entered. We don't need to handle the long *or* short term storage of the user's input, so design on this will be key. We can also yoink some code from the tic-tac-toe project to get highlighting to apply to our selected object.
 
 Spooky test area for merge conflict rundown. Don't fear!
 ~
