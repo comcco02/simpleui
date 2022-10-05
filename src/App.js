@@ -14,8 +14,9 @@ import { useState } from 'react';
 function App() {
   // Sets seeing questions to false at start
   const [showQs, setShowQs] = useState(false);
-  const [showInput, setShowInput] = useState(false);
   // When food item is clicked, toggles seeing user questions
+  const [showInput, setShowInput] = useState(false);
+
   const onClick = () => {
     setShowQs(current => !current);
     //setShowQs(true);
