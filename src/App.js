@@ -5,6 +5,10 @@ import { useState } from 'react';
   what went wrong, what could be improved on, and what they thought about the meal. This system ideally would run on a tablet or 
   similar device running alone at a table and reporting results back to the owners, but this is a web app, 
   which means we can expect it to run on almost anything. 
+
+  Goals: Create a system that has the customer determine their issue by certain metrics such as temperature, taste, appearance, incorrect order, etc. 
+  A full list can be created and expanded on at any time, we can use a data structure for it. We should be able to pick an issue on the list and have it highlighted, 
+  and have a text box appear down below for comments to be entered. We don't need to handle the long or short term storage of the user's input, so design on this will be key
 */
 
 function App() {
