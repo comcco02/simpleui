@@ -11,7 +11,6 @@ To-Dos:
 
 <h2>Submit Button</h2>
 
-
 <button onclick="myFunction()">Submit</button>
 
 <p id="demo"></p>
@@ -30,6 +29,7 @@ function myFunction() {
 
 </body>
 </html>
+
 
 
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/77684974/193926761-29954bf6-c9af-4b42-b3f7-5a383ebf8bd3.png">
