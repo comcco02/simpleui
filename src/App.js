@@ -8,13 +8,13 @@ import { useState } from 'react';
 
   Goals: Create a system that has the customer determine their issue by certain metrics such as temperature, taste, appearance, incorrect order, etc. 
   A full list can be created and expanded on at any time, we can use a data structure for it. We should be able to pick an issue on the list and have it highlighted, 
-  and have a text box appear down below for comments to be entered. We don't need to handle the long or short term storage of the user's input, so design on this will be key
+  and have a text box appear down below for comments to be entered. We don't need to handle the long or short term storage of the user's input.
 */
 
 function App() {
   // Sets seeing questions to false at start
   const [showQs, setShowQs] = useState(false);
-  // When food item is clicked, toggles seeing user questions
+  // When issue is selected, show user the text box for further input
   const [showInput, setShowInput] = useState(false);
 
   const onClick = () => {
