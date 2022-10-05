@@ -14,7 +14,7 @@ import { useState } from 'react';
 function App() {
   // Sets seeing questions to false at start
   const [showQs, setShowQs] = useState(false);
-  // When issue is selected, show user the text box for further input
+  // Sets seeing comments to false at start
   const [showInput, setShowInput] = useState(false);
 
   const onClick = () => {
@@ -39,7 +39,7 @@ function App() {
 
   const Input = () => (
     <div>
-      {/* submit button displays console message saying feedback is "submitted"
+      {/* submit button fires alert message saying feedback is "submitted"
       --we aren't storing it anywhere :P*/}
       <p>Please tell us what was wrong or what we could do to improve.</p><br></br>
       <input class="inputbox" type="text" /><br></br>
