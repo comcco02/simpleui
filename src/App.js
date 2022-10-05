@@ -39,10 +39,9 @@ function App() {
 
   const Input = () => (
     <div>
-      {/* submit button fires alert message saying feedback is "submitted"
-      --we aren't storing it anywhere :P*/}
+      {/* submit button fires alert message saying feedback is "submitted"*/}
       <p>Please tell us what was wrong or what we could do to improve.</p><br></br>
-      <input class="inputbox" type="text" /><br></br>
+      <input class="inputbox" type="text" /><br></br><br></br>
       <button onClick={() => alert("Feedback Submitted.")}>Submit Feedback</button>
     </div>
   );
