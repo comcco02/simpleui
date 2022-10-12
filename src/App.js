@@ -35,7 +35,7 @@ function App() {
 
   const Input = () => (
     <div>
-      {/* submit button fires alert message saying feedback is "submitted"*/}
+      {/* submit button fires alert message saying customer's feedback is "submitted"*/}
       <p>Please describe your issue below:</p><br></br>
       <textarea class="inputbox" type="text" rows="4" cols="50"/><br></br><br></br>
       <button class="submitBtn" onClick={() => alert("Submission successful, hope to see you again soon!")}>Submit</button>
