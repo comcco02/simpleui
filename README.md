@@ -2,6 +2,7 @@
 Human Computer Interaction
 Team Leader: Colton 
 
+COMPLETED
 To-Dos: 
 - still need to get dropdowns to work or keep the buttons? (idk - was my code helpful in solving this issue? - SD)
 - do more than the console message when Submit is clicked?? (like maybe a pop-up or something displays on the webpage?) [LOOK BELOW]
@@ -136,7 +137,7 @@ Other group presentations
 
 CA, HS, and SD were not present due to business trip.
 
-CM - 
+CM - watched lengthy video detailing basics of React - able to complete great beginning interface for group
 
 ZP - 
 
