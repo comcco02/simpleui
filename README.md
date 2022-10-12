@@ -34,6 +34,8 @@ function myFunction() {
 
 
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/77684974/193926761-29954bf6-c9af-4b42-b3f7-5a383ebf8bd3.png">
+![image](https://user-images.githubusercontent.com/77684974/195408407-74de448d-b8a0-49c9-9194-f946bf391b80.png)
+
 
 CM 9/30/22
 All, I've been given instructions to lay low and rest, and to not do a repeat of Wednesday and strain my head and my eyes. Off the top of my head, I did do a few searches to narrow down what I remember being the most pressing issues on Wednesday:
